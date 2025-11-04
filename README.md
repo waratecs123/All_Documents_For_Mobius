@@ -68,7 +68,3 @@ Este repositorio contiene los documentos legales oficiales del proyecto **Möbiu
 > © 2024 Isaev Alexander Sergeevich, Lalenko Igor Sergeevich. All rights reserved.  
 > © 2024 Isaev Alexander Sergeevich, Lalenko Igor Sergeevich. Todos los derechos reservados.
 
----
-
-**Основной репозиторий Möbius:** [github.com/.../mobius](https://github.com/.../mobius) *(замените на актуальную ссылку)*  
-**Main Möbius Repository:** [github.com/.../mobius](https://github.com/.../mobius) *(replace with actual link)*
